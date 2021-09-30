@@ -1,0 +1,24 @@
+class College():
+   def __init__(self,start,endd):
+               self.start = start
+               self.end = end
+   def status_report(self):
+        return " the time starts from {} till {}." .formt(self.start,self.end)
+        
+       
+ class Mathfest(college):
+       def __init__((self,start,endd):
+               self.start = start
+               self.end = end
+               
+       def Math_status_report(self):
+            open_statement = "the status report as follows"
+            print(open_statement)
+            statement = kingkhan.status_report()
+            return statement
+            
+            output is :
+            
+  math = Mathfest(start="11 pm ",end="2 pm"
+  print(math.math_status_report())
+  print(math.status_report())
